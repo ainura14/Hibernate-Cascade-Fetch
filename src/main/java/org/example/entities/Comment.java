@@ -11,7 +11,7 @@ import java.util.List;
 @Getter
 @Setter
 @Builder
-@Table(name = "commits")
+@Table(name = "comments")
 @Entity
 public class Comment {
     @Id
